@@ -1,1 +1,1 @@
-This is my first class of javascript 2022
+This is my first class of javascript 2022 with Peter
